@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+#shrine-app {
+  text-align: center;
+}
+#scene-image {
+  width: 90vw;
+  max-width: 400px;
+  transition: all 1s ease;
+}
